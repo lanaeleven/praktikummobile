@@ -1,0 +1,50 @@
+package com.example.prakmobilemodul4
+
+import android.os.Bundle
+import androidx.fragment.app.Fragment
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+
+import com.example.prakmobilemodul4.databinding.FragmentDetailList1Binding
+
+
+class DetailList1 : Fragment() {
+
+
+
+
+    private var _binding: FragmentDetailList1Binding? = null
+    private val binding get() = _binding!!
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setHasOptionsMenu(true)
+    }
+
+    override fun onCreateView(
+        inflater: LayoutInflater, container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View? {
+        // Inflate the layout for this fragment
+        _binding = FragmentDetailList1Binding.inflate(inflater, container, false)
+        val view = binding.root
+        return view
+    }
+
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        val judul = binding.judul
+        val gambar = binding.gambar
+        val harga = binding.harga
+        val detail = binding.detail
+        judul.text = getString(arguments?.getInt("judul")!!)
+        harga.text = getString(arguments?.getInt("harga")!!)
+        detail.text = getString(arguments?.getInt("detail")!!)
+        gambar.setImageResource(arguments?.getInt("gambar")!!)
+    }
+
+    override fun onDestroyView() {
+        super.onDestroyView()
+        _binding = null
+    }
+}

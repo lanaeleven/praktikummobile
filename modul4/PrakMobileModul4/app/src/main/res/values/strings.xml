@@ -1,0 +1,202 @@
+<resources>
+    <string name="app_name">Prak Mobile Modul 4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_open">Navigation Open</string>
+    <string name="navigation_close">Navigation Close</string>
+
+    <string name="pentab1_judul">Wacom One Medium CTL-672</string>
+    <string name="pentab2_judul">VEIKK A50</string>
+    <string name="pentab3_judul">XP-PEN Deco 01</string>
+    <string name="pentab4_judul">Huion H640P</string>
+    <string name="pentab5_judul">Huion H430P</string>
+    <string name="pentab6_judul">Gaomon S56K</string>
+    <string name="pentab7_judul">XP-PEN Deco 03</string>
+    <string name="pentab8_judul">Wacom Intuos Small CTL-4100WL</string>
+    <string name="pentab9_judul">XP Pen Star 03 PRO Graphic Drawing Pen</string>
+    <string name="pentab10_judul">Wacom CTL-490</string>
+
+    <string name="pentab1_harga">1.300.000</string>
+    <string name="pentab2_harga">557.000</string>
+    <string name="pentab3_harga">935.000</string>
+    <string name="pentab4_harga">700.000</string>
+    <string name="pentab5_harga">430.000</string>
+    <string name="pentab6_harga">682.000</string>
+    <string name="pentab7_harga">1.800.000</string>
+    <string name="pentab8_harga">1.600.000</string>
+    <string name="pentab9_harga">840.000</string>
+    <string name="pentab10_harga">1.300.000</string>
+
+    <string name="pentab1_detail">
+        Produk yang satu ini memiliki teknologi elektromagnetik yang dapat memudahkan Anda dalam mengontrol stylus. Stylus pen tablet ini memiliki teknologi elektromagnetik yang telah dikembangkan Wacom untuk dapat menghasilkan garis yang lebih akurat. Tentunya hal itu akan memudahkan Anda untuk mengontrol stylus dengan lebih baik.
+        Anda yang bekerja sebagai editor foto tentu akan sangat terbantu dengan produk ini karena hasil edit foto bisa tampak lebih rapi. Dengan selera anak muda yang saat ini sedang trendy, sangat menjamin bahwa produk ini sangat memanjakan pengguna berdasarkan hasil review dari berbagai kalangan pengguna khususnya pengguna dewasa yang bergerak dalam bidang gambar.
+    </string>
+    <string name="pentab2_detail">
+        Pen tablet ini memiliki ketebalan 2mm, dengan demikian Anda dapat membawanya dengan fleksibel. Ini pun juga sangat praktis buat dimasukkan ke dalam tas-mu. Dapat dioperasikan di Windows XP/Vista 10/8/7, Mac 10.8.
+        Anda juga bisa memfungsikannya dengan aneka software desain, contohnya Photoshop, SAI, Painter, Illustrator, Clip Studio, dan masih banyak lagi. Dengan tingkat sensitivitas yang cukup tinggi, Anda jadi mampu menggoreskan gambar dengan kualitas serta ketajaman maksimal.
+    </string>
+    <string name="pentab3_detail">
+        XP-PEN Deco 01 cocok banget untuk kamu yang suka bekerja di luar ruangan, geng. Pasalnya, pen tablet yang satu ini ringan dan tipis banget.
+        Hal tersebut bisa dimaklumi, mengingat pen tab ini memiliki tebal 8 mm yang kira-kira hanya setipis koin logam. Bayangin, tipis banget kan?
+        Area aktif yang lebar, serta level tekanan hingga 8192, membuat pen tablet satu ini cocok untuk kamu yang sedang belajar.
+    </string>
+    <string name="pentab4_detail">
+        Kalau kamu sedang mencari alternatif pen tablet yang ringan selain XP-PEN Deco 01, Huion H640P bisa juga menjadi pilihan kalian, geng.
+        Harga Huion H640P lebih murah karena area aktifnya juga lebih kecil. Tingkat tekanan pen tablet ini mencapai 8192 sehingga memudahkan kamu yang masih pemula.
+        Maka dari itu, Huion H640P adalah perangkat pentab murah terbaik yang cocok buat kamu. Perangkat ini juga bisa digunakan di aneka aplikasi menggambar terbaik, loh!
+    </string>
+    <string name="pentab5_detail">
+        Kamu masih pelajar dan mencari pen tablet yang sangat murah dengan kualitas lumayan? Jangan sedih, geng. Kamu bisa membeli HUION H430P.
+        Pen tablet ini tidak menggunakan baterai sehingga sangat efisien. Selain itu, tingkat tekanan 4096 membuat penggunaan HUION H430P makin mudah.
+        Harganya yang di bawah Rp500 ribu membuat perangkat ini jadi rekomendasi pen tablet murah untuk pemula terbaik buat kamu. Tertarik meminang pen tablet di bawah 500 ribu satu ini?
+    </string>
+    <string name="pentab6_detail">
+        Gaomon S56K memiliki bahan dari karet sehingga sangat praktis untuk kamu bawa ke mana-mana. Harganya yang murah membuat pen tablet ini menjadi salah satu pilihan favorit bagi pemula.
+        Pentablet ini juga cocok digunakan oleh para profesional yang sering membuat tanda tangan digital, baik itu di sekolah, di kampus, maupun di kantor.
+        Selain bisa digunakan sebagai perangkat untuk menulis dan membubuhkan tanda tangan, Gaomon S56K juga bisa kamu gunakan sebagai perangkat mousepad, lho. Praktis banget, harganya pun murah dan terjangkau!
+    </string>
+    <string name="pentab7_detail">
+        XP-PEN Deco 03 memiliki fitur dan desain yang premium meskipun dihargai dengan harga yang terjangkau di kelasnya. Cocok banget untuk pemula yang memiliki budget medium.
+        Wheel yang terletak pada sudut akan memudahkan kamu dalam memutar wheel serta mengatur sudut kanvas saat mengerjakan desain atau ilustrasi.
+        Nggak hanya itu aja, geng. Perangkat ini juga sangat user friendly untuk pengguna yang baru pertama kali memakai pentab. Dijamin langsung mahir!
+    </string>
+    <string name="pentab8_detail">
+        Wacom Intuos Small CTL-4100WL adalah entry pen tablet selanjutnya dari Wacom. Pen tablet satu ini menggunakan koneksi bluetooth sehingga meja kamu akan tampak rapi.
+        Kamu bisa memilih 2 dari 3 software gratis yang bisa di-download di website Wacom, yakni Corel Painter Essentials 6, Corel Aftershot 3 dan CLIP STUDIO PAINT PRO.
+        Selain itu, dengan pilihan warna hitam, hijau, dan merah muda bisa kamu pilih sesuai dengan favoritmu. Mood kamu buat menggambar pun bakal meningkat berkali-kali lipat!
+    </string>
+    <string name="pentab9_detail">
+        Bagi kamu yang sedang mencari pentablet murah, XP Pen Star bisa jadi jawabannya. Pena ini menawarkan kepekaan tinggi serta kemudahan dalam menggerakkan perangkat sehingga kamu bisa mendapatkan gambar terbaik.
+        Lewat kecepatan 250RPS dan 5080LPI, kamu mampu mendapat gambar yang responsif serta alami tanpa batasan ruang. Kerennya, kamu bisa menggunakan Windows 10/8/7 dan Mac OS 10.6.0, dan seterusnya.
+        Oh iya, perangkat ini bisa bekerja dengan efektif pada berbagai macam software seperti Photoshop, Illustrator, Fireworks, SAI, Comic Studio, dan banyak lagi.
+        Cocok banget buat semua jenis pekerjaan desain kelas profesional atau amatir deh!
+    </string>
+    <string name="pentab10_detail">
+        Wacom CTL-490 nggak membutuhkan baterai, geng. Selain itu, dengan ukuran 152 x 95 mm dan tingkat tekanan hingga 1024, pen tablet ini cocok digunakan oleh pemula.
+        Dengan demikian, bagi kamu yang sangat butuh pentab murah sesuai budgetmu, kamu bisa melirik perangkat ini sebagai alat menggambarmu.
+    </string>
+
+    <string name="display1_judul">Huion Kamvas 22 Plus</string>
+    <string name="display2_judul">XP-Pen Artist 24 Pro</string>
+    <string name="display3_judul">Wacom One</string>
+    <string name="display4_judul">Microsoft Surface Pro 7</string>
+    <string name="display5_judul">Artisul D16</string>
+    <string name="display6_judul">Wacom Cintiq 16</string>
+    <string name="display7_judul">VEIKK VK1200 </string>
+    <string name="display8_judul">XP-PEN Artist 12</string>
+    <string name="display9_judul">Huion Kamvas 13</string>
+
+    <string name="display1_harga">7.980.000</string>
+    <string name="display2_harga">12.800.000</string>
+    <string name="display3_harga">5.679.000</string>
+    <string name="display4_harga">10.200.000</string>
+    <string name="display5_harga">4.750.000</string>
+    <string name="display6_harga">10.000.000</string>
+    <string name="display7_harga">3.182.000</string>
+    <string name="display8_harga">3.850.000</string>
+    <string name="display9_harga">3.950.000</string>
+
+    <string name="display1_detail">
+        Menghasilkan warna yang dalam dan akurat berkat kombinasi layar IPS laminated screen
+        Kamvas 22 Plus dibekali layar in-plane switching (IPS) yang berteknologi quantum dot.
+        Kacanya juga sudah matte yang antigores untuk menghasilkan friksi serupa kertas.
+    </string>
+    <string name="display2_detail">
+        Dibekali layar ekstra besar dan dua buah pen
+        XP-Pen Artist 24 Pro, seperti namanya, memiliki layar sebesar 24 inci. Detail dari gambar Anda bakal terlihat jelas tanpa perlu banyak melakukan zoom dan panning.
+        Dengan jarak antara digitizer dengan permukaan layar yang kecil, paralaks yang dihasilkan juga sangat minim sehingga tidak terlalu mengganggu. Pen tablet terbaik ini dilengkapi pula dengan lapisan protector matte bawaan yang kesat sekaligus mulus.
+        Menariknya lagi, XP-Pen juga melengkapi monitor tablet ini dengan dua buah pen. Anda pun tidak perlu membeli pen tambahan untuk cadangan!
+    </string>
+    <string name="display3_detail">
+        Pen tablet terbaik ini memiliki layar laminated ukuran 13 inci yang dilapisi tekstur matte, menimbulkan friksi yang nyaman di tiap goresan.
+        Agar lebih ergonomis dan pas dengan postur Anda, Wacom One memiliki kaki yang dapat ditegakkan hingga 19 derajat. Di samping itu, pen tablet ini juga kompatibel dengan beragam sistem operasi, mulai dari Windows, Mac, hingga beberapa tipe Android.
+    </string>
+    <string name="display4_detail">
+        Produk satu ini bukanlah drawing tablet, melainkan tablet PC, yang memungkinkan Anda menggambar hingga mengerjakan tugas-tugas lainnya seperti mengetik, browsing, dan banyak lagi. Untuk mengakomodasi semua tugas tersebut, diimplementasikan sistem operasi Windows 10 yang pengoperasiannya familier untuk kebanyakan orang.
+        agar bisa digunakan menggambar, Anda perlu membeli Surface Pen yang dijual terpisah dan software grafis untuk diinstal. Jadi, jika Anda berniat membeli Surface Pro 7, jangan lupa untuk menyiapkan dana tambahan, ya!
+    </string>
+    <string name="display5_detail">
+        pen tablet terbaik ini dibekali pressure sensitivity 8192 levels dan resolusi 5080 lpi.
+        Artisul D16 sudah dilengkapi stand dalam paket penjualannya. Stand ini terbuat dari bahan alumunium sehingga sangat kokoh dalam menopang tekanan yang Anda berikan ke tablet.
+    </string>
+    <string name="display6_detail">
+        Cintiq 16 mengimplementasikan layar sentuh sehingga Anda dapat berinteraksi dengan program menggunakan tangan Anda. Workflow pun menjadi lebih intuitif dan lincah.
+        banderolan harga Cintiq 16 masih cukup terjangkau, apalagi jika dibandingkan dengan varian Cintiq Pro di ukuran sama yang harganya bisa dua kali lipat.
+    </string>
+    <string name="display7_detail">
+        Pen tablet terbaik ini memiliki layar laminated ukuran 13 inci yang dilapisi tekstur matte, menimbulkan friksi yang nyaman di tiap goresan.
+    </string>
+    <string name="display8_detail">
+        Brand asal Jepang ini juga merilis pen display dengan harga bersaing, yaitu XP-PEN Artist 12.
+    </string>
+    <string name="display9_detail">
+        Kelebihan dari Huion Kamvas 13 ini adalah sudah menggunakan color gamut 120% sRGB. Sehingga detail warnanya akan lebih baik. Dari segi fitur juga lebih lengkap jika dibandingkan dengan kompetitor di harga yang sama.
+    </string>
+
+    <string name="tablet1_judul">Samsung Galaxy Tab S6 Lite</string>
+    <string name="tablet2_judul">Apple iPad 10.2 (2019)</string>
+    <string name="tablet3_judul">Samsung Galaxy Tab A7 LTE 10.4 (2020)</string>
+    <string name="tablet4_judul">Apple iPad Pro 11 (2020)</string>
+    <string name="tablet5_judul">Lenovo Yoga Book</string>
+    <string name="tablet6_judul">Samsung Galaxy Tab S7</string>
+    <string name="tablet7_judul">Xiaomi Mi Pad 4 Plus</string>
+    <string name="tablet8_judul">Samsung Galaxy Tab S7 Plus</string>
+    <string name="tablet9_judul">Huawei MatePad T 10s</string>
+    <string name="tablet10_judul">Tablet iPad Pro</string>
+
+    <string name="tablet1_harga">6.000.000</string>
+    <string name="tablet2_harga">7.000.000</string>
+    <string name="tablet3_harga">4.000.000</string>
+    <string name="tablet4_harga">20.000.000</string>
+    <string name="tablet5_harga">5.700.000</string>
+    <string name="tablet6_harga">13.000.000</string>
+    <string name="tablet7_harga">6.000.000</string>
+    <string name="tablet8_harga">17.000.000</string>
+    <string name="tablet9_harga">2.600.000</string>
+    <string name="tablet10_harga">9.000.000</string>
+
+    <string name="tablet1_detail">
+        Tablet terbaru keluaran samsung di tahun 2020 ini memiliki desain premium bermaterial metal serta dilengkapi dengan S-Pen. Selain itu, bodinya juga dilengkapi permukaan doff sehingga nggak cepat kotor atau terlalu licin. Digenggam pun nyaman. Layarnya sendiri menggunakan panel PLS TFT 2000 x 1200 piksel yang reproduksi warna dan kontrasnya menyerupai IPS.
+        Nah, yang unggul dari tablet ini adalah kapasitas baterainya yang mencapai 7.040 mAh yang pastinya tahan lama banget ketika digunakan secara intensif. Kamu bisa membelinya seharga Rp 6 jutaan.
+    </string>
+    <string name="tablet2_detail">
+        Apple iPad 10.2 juga termasuk merk tablet bagus buat kamu yang lebih menyukai iPad dibanding tablet Android. Perangkat ini dibekali chipset A10 Fusion dan memiliki OS iPadOS. Untuk layarnya sendiri IPS LCD capacitive touchscreen dengan resolusi 1620 x 2160 piksel. Resolusi layar ini cukup oke dan sangat membantu berbagai kebutuhan.
+        Berbagai fitur pada perangkat ini dibekali dengan keunggulan baterai yang berkapasitas tinggi, yaitu 8.827 mAh. Apple iPad 10.2 dijual seharga Rp 5 jutaan hingga Rp 7 jutaan.
+    </string>
+    <string name="tablet3_detail">
+        Dibekali dengan chipset Qualcomm SM6115 Snapdragon 662 dan CPU Octa-core plus 3GB RAM dan 32GB ROM, tablet ini mampu menjalankan beragam aplikasi berat dengan mulus. Desainnya elegan dilengkapi layar IPS 10.4 inci dengan resolusi 1200 x 2000 piksel. Meski belum menggunakan teknologi layar AMOLED andalan Samsung, perangkat ini sudah menawarkan kualitas gambar yang bagus kok.
+        Untuk sistem operasi, tablet terbaru Samsung keluaran September 2020 ini menggunakan Android 10. Sementara itu untuk daya tahan baterainya juga cukup memuaskan, yaitu 7040 mAh. Dan sudah mendukung fitur fast charging. Selain itu, tablet dari Samsung ini mengusung 8MP kamera belakang dan 5MP kamera depan. Harganya juga terjangkau kok, yaitu dikisaran Rp 4 jutaan.
+    </string>
+    <string name="tablet4_detail">
+        Kali ini, ada Apple iPad Pro 11 (2020) yang memiliki beragam spesifikasi menarik. iPad yang termasuk seri terbaru ini memiliki layar yang luas berjenis IPS 1.668 x 2.388 piksel dan menampilkan kualitas gambar serta ketajaman warna yang oke. Dari segi performa juga sangat powerful dengan Apple A12Z Bionic dan CPU Octa-core. Performa tersebut diimbangi dengan ukuran RAM yang besar yaitu 6GB dan OS iOS 13
+        Desainnya pun sangat menarik dan kekinian lho dengan modul 3 kamera yang menonjol di bodi belakang. Sayangnya, harga tablet yang satu ini memang agak pricey, yaitu Rp 19 jutaan hingga Rp 20 jutaan.
+    </string>
+    <string name="tablet5_detail">
+        ada Lenovo Yoga Book sebagai merk tablet terbaik jenis portabel yang sangat recommended untuk berbagai kepentingan kreatif. Terdapat fitur keren pada perangkat ini, yaitu Real Pen untuk menulis dengan tinta pada kertas dan Yoga Book akan mengubahnya dalam bentuk digital. Kemudian ada juga fitur Halo Keyboard yang menarik dan sangat memudahkan pekerjaan.
+        Yang lebih menarik lagi, tablet ini memiliki layar cerah selebar 10,1 inci Full-HD dan speaker Dolby Atmos sehingga memiliki kemampuan multimedia yang memukau. Harga Yoga Book ini juga hanya Rp 5,7 jutaan lho.
+    </string>
+    <string name="tablet6_detail">
+        Samsung Galaxy Tab S7 termasuk dalam merk tablet bagus di S7 series. Dengan layar LTPS IPS LCD, tablet ini dibekali chipset Snapdragon 865+ dan CPU octa core untuk performa yang mumpuni. Belum lagi, ada RAM berkapasitas 6GB dan memori internal 128 GB yang masih bisa diekspansi microSD hingga 1TB. Sedangkan ROM sendiri terdiri dari tiga pilihan yaitu 128GB (6GB RAM), 256GB (8GB RAM), 512GB (8GB RAM).
+        Tablet ini menjalankan sistem operasi Android 10 serta juga dibekali fitur Multi-Active Window yang memungkinkan untuk menjalankan 3 aplikas sekaligus.
+        Kamu bisa membeli tablet berkualitas unggul ini seharga Rp 13 jutaan.
+    </string>
+    <string name="tablet7_detail">
+        Kalau kamu mencari merk tablet terbaik dengan spesifikasi oke dan harganya terjangkau, Xiaomi Mi Pad 4 Plus ini recommended. Tablet ini didukung dengan chipset Qualcomm SDM660 Snapdragon 660 dan CPU Octa-core yang menghasilkan performa poweful untuk beragam kebutuhan. Dengan OS Android 8.1 MIUI 10, kapasitas RAM perangkat dari Xiaomi ini lumayan besar, yaitu 4GB.
+        Kemudian yang menjadi keunggulan Xiaomi Mi Pad 4 Plus ini adalah kapasitas baterai yang besar yaitu 8.620 mAh dan sudah dilengkapi fitur fast charging 10W. Cocok sekali untuk penggunaan intensif dalam waktu lama. Dengan harga Rp 6 jutaan, kamu juga sudah mendapatkan tablet dengan  layar IPS LCD yang menampilkan gambar dengan cukup tajam lho.
+    </string>
+    <string name="tablet8_detail">
+        Tablet ini memiliki layar yang lebih besar berukuran 12,4 inci dan dibekali panel Super AMOLED sehingga menjanjikan gambar yang lebih tajam serta jernih.
+        Dengan chipset Snapdragon 865+, performa Galaxy Tab S7 Plus ini lebih oke karena memiliki RAM yang lebih besar yaitu 8GB. Memori internalnya juga memiliki kapasitas yang lebih besar hingga 256GB. Yang menjadi keungulan S7 Plus ini juga terletak pada baterainya yang memiliki kapasitas 10.090 mAh dan dilengkapi fitur fast charging 45W. Baterai dengan kapasitas raksasa tersebut pastinya akan menawarkan penggunaan secara intensif dengan daya tahan lebih lama. Kamu bisa membeli Samsung Galaxy Tab S7 Plus ini seharga Rp 17 jutaan.
+    </string>
+    <string name="tablet9_detail">
+        Masih ada nih rekomendasi merk tablet bagus yang harganya bersahabat, yaitu Huawei MatePad T 10s. Dengan harga yang hanya Rp 2,6 jutaan, perangkat ini dibekali spesifikasi yang lumayan. Mulai dari chipset Kirin 710A dan juga RAM 3GB sehingga menawarkan performa yang lumayan kuat. Belum lagi, kapasitas penyimpanannya 64GB dan bisa diekspansi slot microSD hingga 512GB.
+        Yang lebih menarik, Huawei MatePad T 10s ini memiliki layar IPS dengan resolusi 1920 x 1200 pixel yang menampilkan gambar secara bagus untuk kelas harga yang terjangkau.
+    </string>
+    <string name="tablet10_detail">
+        Jika berbicara soal merk tablet terbaik, maka siapapun tak bisa mengesampingkan produk keluaran Apple yang satu ini.
+        Tablet iPad Pro dengan layar 10,5 inci ini bisa dibilang salah satu produk tablet unggulan yang spesifikasinya hampir setara laptop dan PC.
+        Tak heran bila spesifikasi yang ditawarkan pun sangat membuat nyaman baik untuk keperluan desain ataupun bermain game.
+        Harga: Rp8,8 jutaan – Rp19,1 jutaan
+    </string>
+
+</resources>

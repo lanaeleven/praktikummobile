@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    tools:context=".DetailList1">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/judul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="@string/pentab1_judul"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/gambar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:adjustViewBounds="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/judul"
+        tools:src="@drawable/pentab1" />
+
+    <TextView
+        android:id="@+id/harga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/pentab1_harga"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/gambar" />
+
+    <TextView
+        android:id="@+id/detail"
+        android:text="Produk yang satu ini memiliki teknologi elektromagnetik yang dapat memudahkan Anda dalam mengontrol stylus. Stylus pen tablet ini memiliki teknologi elektromagnetik yang telah dikembangkan Wacom untuk dapat menghasilkan garis yang lebih akurat. Tentunya hal itu akan memudahkan Anda untuk mengontrol stylus dengan lebih baik.
+        Anda yang bekerja sebagai editor foto tentu akan sangat terbantu dengan produk ini karena hasil edit foto bisa tampak lebih rapi. Dengan selera anak muda yang saat ini sedang trendy, sangat menjamin bahwa produk ini sangat memanjakan pengguna berdasarkan hasil review dari berbagai kalangan pengguna khususnya pengguna dewasa yang bergerak dalam bidang gambar.
+"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/harga"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
