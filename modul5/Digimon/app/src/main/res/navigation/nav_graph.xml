@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/digimonFragment">
+
+    <fragment
+        android:id="@+id/digimonFragment"
+        android:name="com.example.digimon.DigimonFragment"
+        android:label="digimon_fragment"
+        tools:layout="@layout/digimon_fragment" >
+        <action
+            android:id="@+id/action_digimonFragment_to_detailDigimonFragment"
+            app:destination="@id/detailDigimonFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailDigimonFragment"
+        android:name="com.example.digimon.DetailDigimonFragment"
+        android:label="fragment_detail_digimon"
+        tools:layout="@layout/fragment_detail_digimon" />
+</navigation>
